@@ -7,7 +7,7 @@ Dataset - LT stock data from Yahoo Finance
 Textual News data from https://bit.ly/36fFPI6.
 
 Conclusion:
-Six different Neural Network models were used to carry out the analysis and prediction of stock price/performance, trained with Hybrid data generated from Numerical data (i.e. Stock price history of L&T)) and Textual data (i.e.India News Headlines data).
+Six different Neural Network models were used to carry out the analysis and prediction of stock price/performance, trained with Hybrid data generated from Numerical data (i.e. Stock price history of L&T) and Textual data (i.e.India News Headlines data).
 
 Results
 Accuracy of Logistic Regression Model:  81.43754073609611 %
